@@ -1,0 +1,3 @@
+from urllib import request
+
+request.urlretrieve("https://vid21.pluralsight.com/clips/resolution/c5e0939f-401a-4a6b-b730-958822db2384/current/mp4/1280x720.mp4?fgLmgVDQKO9hJQJsJXXpu0m2hK_C53fg6waUqGYu1q0zTn81ulbYcf1ZnnVQjZJwb_U9o_IgXAAkcptDA_5axYegZxtl5fi4N7BibvYVhNGj0Y4uMn2IeVCES5bbMV3MP4p2y7TdywO3ifPNLzs-QFZk1aDOLAWSUhdPf2NBDQ-w0jJahVJpMq4udelU", "intro.mp4")
